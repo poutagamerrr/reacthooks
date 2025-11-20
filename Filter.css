@@ -1,0 +1,7 @@
+/* Filter component styles */
+.filters{display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;justify-content:space-between}
+.filters .inputs{display:flex;gap:.5rem}
+.filters input{padding:.5rem .65rem;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:inherit}
+.add-btn{background:#16a34a;color:white;padding:.5rem .75rem;border-radius:8px;border:none;cursor:pointer}
+.add-btn:hover{background:#15803d}
+

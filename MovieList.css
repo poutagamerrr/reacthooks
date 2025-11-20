@@ -1,0 +1,10 @@
+/* MovieList layout improvements */
+.grid{display:grid}
+.grid-cols-1{grid-template-columns:1fr}
+.md\:grid-cols-3{grid-template-columns:repeat(3,1fr)}
+.gap-6{gap:1.25rem}
+
+.movie-list{padding:0; margin:0}
+
+.movie-item{display:block}
+
